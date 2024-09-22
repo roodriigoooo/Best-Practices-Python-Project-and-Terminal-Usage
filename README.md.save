@@ -1,0 +1,13 @@
+# Python Project with Terminal Usage: Best Coding Practices
+
+## Overview
+
+This project is a Python application demonstrating best practices in project structure, code organization, configuration management, script execution, and unit testing. This application also showcases advanced functionalities:
+- **Interactive Data Visualization**: Generates interactive charts (scatter or line plots) that can be viewed in a web browser. 
+- **Text Analysis**: Performs sentiment analysis and keyword extraction using basic NLP techniques. 
+- **Enhanced Logging**: Implements a custom logging system that logs to both the console and a JSON file, including detailed metadata. 
+
+## Project Structure
+'''bash
+python_project/
+

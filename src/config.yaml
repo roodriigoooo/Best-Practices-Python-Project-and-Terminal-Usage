@@ -1,0 +1,9 @@
+settings:
+	log_level: "INFO"
+
+data:
+	numbers: [12,45,23,67,34,89]
+	text: "Python is a programming language with a nice community and lots of useful libraries."
+	operation: "advanced_text_analyis" #Options: interactive_visualization, advanced_text_analysis
+	chart_type: "scatter" #Options: scatter, line
+
