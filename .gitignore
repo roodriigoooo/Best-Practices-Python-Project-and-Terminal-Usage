@@ -16,4 +16,7 @@ app_logs.json
 # Interactive chart
 interactive.chart.html
 
+# Ignore all .save files
+*.save
+
 

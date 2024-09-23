@@ -197,6 +197,7 @@ Install all dependencies using:
 ```bash
 pip install -r requirements.txt
 python -m textblob.download_corpora
+```
 
 ## Additional Information
 ### Viewing the Interactive Charts
